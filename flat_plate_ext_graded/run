@@ -1,0 +1,4 @@
+./Allclean
+blockMesh
+icoFoam
+touch flat_plate_ext_graded.foam
